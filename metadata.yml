@@ -1,0 +1,14 @@
+---
+:id: 184578358
+:submitters:
+- :name: Anish Goel
+  :email: anishgoel@berkeley.edu
+- :name: Irene Ruan
+  :email: irener@berkeley.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-07-07 22:57:21.455193000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-07-07 15:57:21.455193000 Z
+:status: processed
+:score: 100.0
